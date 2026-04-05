@@ -32,6 +32,7 @@ Built as an end-to-end personal project with:
 
 ## Architecture
 
+~~~text
 User Query
    |
    v
@@ -42,6 +43,7 @@ BERT Model (final_model/)
    |
    v
 Suggested Keywords (JSON response)
+~~~
 
 ## Repository Structure
 
